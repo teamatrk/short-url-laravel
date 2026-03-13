@@ -20,8 +20,9 @@ Setup instructions
 7) Copy content of this repo and paste in root folder of laravel project
 8) run "composer install"
 9) run "php artisan migrate"
+10) run "php artisan db:seed"
     
-10 run "php artisan db:seed"
+ 
 
 Login as super admin
 email : superadmin@email.com
