@@ -18,7 +18,7 @@ Setup instructions
 
 6) run "php artisan jetstream:install livewire"
 7) Copy content of this repo and paste in root folder of laravel project
-8) 4) run "composer install"
+8) run "composer install"
 9) run "php artisan migrate"
 10 run "php artisan db:seed"
 
