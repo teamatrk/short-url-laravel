@@ -10,14 +10,17 @@ Setup instructions
 
 2) runb "cd example-app"
 
-3) Copy content of this repo and paste in root folder of laravel project
-4) Delete composer.lock file
-5) run "composer install"
 
-6) configure .env file to connect to mysql database
-7) run "php artisan jetstream:install livewire"
-8) run "php artisan migrate"
-9) run "php db:seed"
+3) Delete composer.lock file
+
+4) run "composer require laravel/jetstream"
+5) configure .env file to connect to mysql database
+
+6) run "php artisan jetstream:install livewire"
+7) Copy content of this repo and paste in root folder of laravel project
+8) 4) run "composer install"
+9) run "php artisan migrate"
+10 run "php artisan db:seed"
 
 Login as super admin
 email : superadmin@email.com
