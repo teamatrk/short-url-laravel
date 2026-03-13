@@ -8,7 +8,7 @@ Setup instructions
 1) create laravel project 
    "composer create-project laravel/laravel example-app"
 
-2) runb "cd example-app"
+2) run "cd example-app"
 
 
 3) Delete composer.lock file
